@@ -7,3 +7,5 @@ El mod de balatro que permite jugar con las cartas inspiradas en los ratatines y
 - Corazones: Darknew, DegoDraws, Civer
 - Tréboles: Derker, Shiro, y Ratatin
 - Diamantes: Miyamoto, El loco Damián, SEF
+
+El mod requiere de steamodded
